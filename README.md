@@ -29,7 +29,7 @@ I am a hardworking students who loves to learn something new. If I were to apply
 <a href="C:\Users\lenovo\Desktop\Portfolio.docx" target="_blank" style=" font-size: 30px; font-weight: bold; ">Download Resume</a>
 </div>
 </center>
-
+</br>
 <div class= containers2>
     </br>
     <center>
