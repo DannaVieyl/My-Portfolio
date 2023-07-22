@@ -59,7 +59,6 @@ I am a hardworking students who loves to learn something new. If I were to apply
 <a href="https://www.facebook.com/profile.php?id=100079043833569" style=" font-size: 15px; font-weight: bold;">Dann Cainglet Torne</a>
 <h4 style="color: black; font-family: serif; font-size: 20px; font-weight: bolder; "> GitHub: </h4>
 <a href="https://github.com/dashboard" style=" font-size: 15px; font-weight: bold;">DannTorne</a>
-</center>
 <footer>
   <center><p style="margin-top: 5px; font-weight: bold;"></p>Thank You!</center>
 
