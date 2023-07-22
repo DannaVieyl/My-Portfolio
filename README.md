@@ -17,10 +17,10 @@
 </header>
 <center>
   <div class= container1>
-  </br>
+  
     <img src="j.jpg" style="margin-top: 20px; height: 500px; width: 700px">
     <h1 style="color: white; font-family: serif; font-size: 40px; font-weight: bolder; "> ABOUT ME </h1>
-  </img>
+
 <p style="margin-right:100px; margin-left:100px;  font-family: arial; font-size: 40px;  margin-top: 20px; color: whitesmoke; font-weight: bold;"><br> DANNA VIEYL JOY C. TORNE </p>
 <p style="margin-right:100px; margin-left:100px;  font-family: arial; font-size: 20px; margin-top: 5px; color: whitesmoke;"><br> BSIT, MAJOR IN SYSTEM DEVELOPMENT </p>
 <p style="margin-right:100px; margin-left:100px;  font-family: arial; font-size: 20px;  margin-top: 5px; color: whitesmoke;"><br> Hi there, my name is Danna Vieyl Joy C. Torne, but you can call me Dann. I'm a student currently pursuing a Bachelor's degree in Information Technology at the Central Luzon State University. I have known some basic knowledge about programming languages (C and C++, python, java, javascript, SQL, PHP).  </p>
@@ -29,9 +29,8 @@ I am a hardworking students who loves to learn something new. If I were to apply
 <a href="C:\Users\lenovo\Desktop\Portfolio.docx" target="_blank" style=" font-size: 30px; font-weight: bold; ">Download Resume</a>
 </div>
 </center>
-</br>
 <div class= containers2>
-    </br>
+  
     <center>
     <h1 style="color: black; font-family: serif; font-size: 40px; font-weight: bolder; "> MY PROJECT </h1> 
 
