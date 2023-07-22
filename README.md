@@ -18,7 +18,7 @@
 <center>
   <div class= container1>
     </br>
-    <img src="j.jpg" style="margin-top: 20px; height: 500px; width: 700px">
+    <img src="j.jpg" style="margin-top: 20px; height: 300px; width: 500px">
     <h1 style="color: white; font-family: serif; font-size: 40px; font-weight: bolder; "> ABOUT ME </h1>
 </img>
 
