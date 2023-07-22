@@ -38,11 +38,11 @@ I am a hardworking students who loves to learn something new. If I were to apply
 <p style="margin-right: 100px; margin-left:100px;  font-family: arial; font-size: 30px;  color: black; font-weight: bold;"><br> It was my first ever Website that I've created. This is one of my activities in our laboratory when I was 1st year.</p>
 
 <div class= containers3>
-    </br>
-<img src="d.jpg" style="margin-top:100px; height: 500px; width: 500px;">" </img>
-<p style="margin-right: 100px; margin-left:100px;  font-family: arial; font-size: 40px;  color: black; font-weight: bold; "><br> DOING BACK END IN A PROJECT WEBSITE</p> </br>
+   
+<img src="d.jpg" style="margin-top:100px; height: 500px; width: 500px;">"
+<p style="margin-right: 100px; margin-left:100px;  font-family: arial; font-size: 40px;  color: black; font-weight: bold; "><br> DOING BACK END IN A PROJECT WEBSITE</p> 
 
-<img src="e.png" style="margin-top:30px; height: 500px; width: 500px;">" </img>
+<img src="e.png" style="margin-top:30px; height: 500px; width: 500px;">" 
 <body>
     <p>Click the link to visit website:</p>
     <a href="http://readysetgalaph.000webhostapp.com/index.php#home" style=" font-size: 30px; font-weight: bold;">Visit Ready.Set.Gala</a>
@@ -51,7 +51,7 @@ I am a hardworking students who loves to learn something new. If I were to apply
  
 </div>
 <div class= containers4>
-    </br>
+
 <h1 style="color: black; font-family: serif; font-size: 40px; font-weight: bolder; "> CONTACTS </h1> 
 <h2 style="color: black; font-family: serif; font-size: 20px; font-weight: bolder; "> Email: </h2> 
 <a href="https://mail.google.com/mail/u/0/#inbox" style=" font-size: 15px; font-weight: bold;">torne.dannavieyljoyc@gmail.com</a>
@@ -61,6 +61,6 @@ I am a hardworking students who loves to learn something new. If I were to apply
 <a href="https://github.com/dashboard" style=" font-size: 15px; font-weight: bold;">DannTorne</a>
 </center>
 <footer>
-  <center><p style="margin-top: 5px; font-weight: bold;"></p></center>
+  <center><p style="margin-top: 5px; font-weight: bold;"></p>Thank You!</center>
 
 </html>
